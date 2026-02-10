@@ -7,7 +7,7 @@ A collection of mini mods intended for Xenonauts, made by me.
 Includes the mods listed below with their respective descriptions:
 
 ### Deluxe Geoscape Cheat
-´´´
+~~~
 COMMANDER, TAKE OUR MONEY, ALL OF IT. STOP THE ALIENS!
 '
 - Ridiculous money (800 Million!!!)
@@ -24,28 +24,28 @@ You're basically swimming in money and alloys, plus get many quality of life imp
 This is the Deluxe Geoscape Cheat Mod.
 '
 (Ground combat unchanged, only flares buffed)
-´´´
+~~~
 ### Super Flares!
-´´´
+~~~
 NO MORE DARKNESS! PRAISE THE SUN!
 '
 Modifies night mission flares:
-\* Minimal TU Cost
-\* Ridiculous Throw Range
-\* Gigantic Radius of Light
+- Minimal TU Cost
+- Ridiculous Throw Range
+- Gigantic Radius of Light
 '
 Night-time missions should be far more enjoyable now
-´´´
+~~~
 ### Minutemen: 8000 TUs
-´´´
+~~~
 Your soldiers get 8000 TUs.
 '
 Blitz through an entire ground combat mission in one turn, stay out of alien reaction fire, teleport behind aliens and say "pssh, nothing personnel kid" as you pick them off one by one.
 '
 A power fantasy cheat mod for when you just want to wreck aliens with impunity.
-´´´
+~~~
 ### New Game+ Graviton Beam Emitter
-´´´
+~~~
 Adds the Graviton Beam Emitter, a BLAME! inspired weapon for soldier use.
 '
 Changes the gameplay into a more fast-paced, reckless and overkill experience overall. You get the weapon after researching Alien Plasma Rifle, which is very early on.
@@ -62,7 +62,7 @@ You will kill aliens fast, yes, but relying on this weapon has some things you w
 3. Less money = cant afford armor. You may end up running through the whole game naked
 4. Less money = cant afford bases. Aliens can terrorize much of the world easier
 5. Less money = less upgrades. You may need to skip a lot of tiers to surviv
-´´´
+~~~
 ## Installation
 
 _For Xenonauts 1.5 or 1.09 X:CE 0.32 (or above)_
