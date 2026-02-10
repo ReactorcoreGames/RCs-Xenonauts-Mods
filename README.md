@@ -1,5 +1,8 @@
 **These are mods for Xenonauts: Community Edition.**
 
+![xeno mods](https://github.com/user-attachments/assets/ca22ba51-6de8-4e55-91f8-ea4bbed9068a)
+
+
 ## About
 
 A collection of mini mods intended for Xenonauts, made by me.
